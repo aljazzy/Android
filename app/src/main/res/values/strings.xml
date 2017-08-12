@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PopularMovie2</string>
+    <string name="error_text">Koneksi Bermasalah</string>
+    <string name="adapter_thumbnail">Adapter Thumbnail</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="detail_poster_description">Poster Description</string>
+    <string name="detail_overview_title">Overview Title</string>
+    <string name="detail_overview_default">Detail Overview</string>
+    <string name="detail_rating_title">Detail Rating Title</string>
+    <string name="detail_rating_default">Rating </string>
+    <string name="detail_release_title">Deteail Release Title</string>
+    <string name="detail_release_default">15 Agustus 2017</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Most Popular</string>
+    <string name="favorit">Favorit</string>
+    <string name="adapter_youtube_trailer">Youtube Trailer</string>
+</resources>
